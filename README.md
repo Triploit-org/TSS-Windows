@@ -1,2 +1,2 @@
-# TSS-Linux
-TSS for Linux: A Shell with a built in scripting function !
+# TSS-Windows
+TSS for Windows: A Shell with a built in scripting function !
